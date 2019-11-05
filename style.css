@@ -1,0 +1,27 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(247, 224, 194);
+}
+img{
+    height: 100px;
+}
+h1{
+    text-align: center;
+    font-size: 300%;
+    color: brown;
+}
+p.cafe{
+text-align: center;
+}
+p.carta{
+    text-align: left;
+}
+p.contacto{
+    text-align: right;
+}
+h3{
+    color: brown;
+}
+p{
+    color: brown;
+}
