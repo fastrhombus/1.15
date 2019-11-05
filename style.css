@@ -27,12 +27,19 @@ p{
 }
 td{
     color: brown;
+    border: brown 1px solid;
 }
 th{
+    border: brown 1px solid;
     color: brown;
     background-color: rgb(255, 234, 204);
 }
 h3.negro{
     color: black;
     text-align: center;
+}
+table{
+    border: black 1px solid;
+    margin-left: auto;
+    margin-right: auto;
 }
