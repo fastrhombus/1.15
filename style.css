@@ -25,3 +25,14 @@ h3{
 p{
     color: brown;
 }
+td{
+    color: brown;
+}
+th{
+    color: brown;
+    background-color: rgb(255, 234, 204);
+}
+h3.negro{
+    color: black;
+    text-align: center;
+}
